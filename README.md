@@ -5,4 +5,4 @@ Developed a Netflix clone, using REACT.JS on the client-side, FIREBASE as a data
 
 - Styled components to write plain CSS in React without worrying about clashing names
 
--Used compound components to reduce the complexity of the software architecture 
+- Used compound components to reduce the complexity of the software architecture 
